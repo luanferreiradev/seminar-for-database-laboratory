@@ -49,4 +49,4 @@ A apresentação visa:
 
 ### Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE ](/LICENSE) mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE ](/LICENSE) para mais detalhes.
