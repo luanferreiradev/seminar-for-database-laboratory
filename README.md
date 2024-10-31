@@ -10,6 +10,11 @@ Este repositório contém a apresentação de exemplos e exercícios de álgebra
 | Luan Ferreira | [Link para o Repositório Principal](https://github.com/luanferreiradev/seminar-for-database-laboratory) |
 
 
+### Exercícios
+
+Para ajudar na resolução dos exercícios, o [slide da apresentação está anexado.](/Slide/Algebra%20Relacional.pdf)
+
+
 ## Objetivo do Projeto
 
 A apresentação visa:
